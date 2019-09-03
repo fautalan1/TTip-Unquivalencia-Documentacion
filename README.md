@@ -9,3 +9,5 @@ Number |       Name              | UNQ-Records |    EMail                 |Posit
   2    |Fernando Autalan         |   38046     | f.n.autalan@gmail.com    | Developer
   3    |Gabriel Pasquale         |             | pasqualeunq@gmail.com    | Developer
   4    |Susana Rosito            |             | rosito.susana@gmail.com  | Tutora 
+
+### [wiki](https://github.com/fautalan1/TTip-Unquivalencia-Documentacion.wiki.git)
