@@ -7,5 +7,5 @@ Number |       Name              | UNQ-Records |    EMail                 |Posit
 -------|-------------------------|-------------|--------------------------|----------------
   1    |Camila Cintioli          |             | camila.cintioli@gmail.com| Developer   
   2    |Fernando Autalan         |   38046     | f.n.autalan@gmail.com    | Developer
-  3    |Gabriel Pasquale         |             | pasqualeunq@gmail.com    | Developer
+  3    |Gabriel Pasquale         |   33566     | pasqualeunq@gmail.com    | Developer
   4    |Susana Rosito            |             | rosito.susana@gmail.com  | Tutora 
